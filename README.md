@@ -2,6 +2,13 @@
 
 Some brew taps that I developed myself or secondary development
 
+## Usage
+
+```bash
+> brew tap BlackHole1/homebrew-repo
+> brew install packageName
+```
+
 ## Taps
 
 ### Secondary development
